@@ -1,0 +1,39 @@
+﻿  Stdafx.cpp
+  AssemblyInfo.cpp
+  CLRWrapper.cpp
+  ConfigurationServiceWrapper.cpp
+  DownstreamWrapper.cpp
+  HermesWrapper.cpp
+  UpstreamWrapper.cpp
+  VerticalClientWrapper.cpp
+  VerticalServiceWrapper.cpp
+  Generating Code...
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+VerticalServiceWrapper.obj : warning LNK4248: unresolved typeref token (0100000F) for 'HermesDownstream'; image may not run
+VerticalClientWrapper.obj : warning LNK4248: unresolved typeref token (0100000F) for 'HermesDownstream'; image may not run
+UpstreamWrapper.obj : warning LNK4248: unresolved typeref token (0100000F) for 'HermesDownstream'; image may not run
+DownstreamWrapper.obj : warning LNK4248: unresolved typeref token (0100000F) for 'HermesDownstream'; image may not run
+ConfigurationServiceWrapper.obj : warning LNK4248: unresolved typeref token (0100000F) for 'HermesDownstream'; image may not run
+VerticalServiceWrapper.obj : warning LNK4248: unresolved typeref token (01000011) for 'HermesUpstream'; image may not run
+VerticalClientWrapper.obj : warning LNK4248: unresolved typeref token (01000011) for 'HermesUpstream'; image may not run
+UpstreamWrapper.obj : warning LNK4248: unresolved typeref token (01000011) for 'HermesUpstream'; image may not run
+DownstreamWrapper.obj : warning LNK4248: unresolved typeref token (01000011) for 'HermesUpstream'; image may not run
+ConfigurationServiceWrapper.obj : warning LNK4248: unresolved typeref token (01000011) for 'HermesUpstream'; image may not run
+VerticalServiceWrapper.obj : warning LNK4248: unresolved typeref token (01000014) for 'HermesConfigurationService'; image may not run
+VerticalClientWrapper.obj : warning LNK4248: unresolved typeref token (01000014) for 'HermesConfigurationService'; image may not run
+UpstreamWrapper.obj : warning LNK4248: unresolved typeref token (01000014) for 'HermesConfigurationService'; image may not run
+DownstreamWrapper.obj : warning LNK4248: unresolved typeref token (01000014) for 'HermesConfigurationService'; image may not run
+ConfigurationServiceWrapper.obj : warning LNK4248: unresolved typeref token (01000014) for 'HermesConfigurationService'; image may not run
+VerticalServiceWrapper.obj : warning LNK4248: unresolved typeref token (01000015) for 'HermesVerticalService'; image may not run
+VerticalClientWrapper.obj : warning LNK4248: unresolved typeref token (01000015) for 'HermesVerticalService'; image may not run
+UpstreamWrapper.obj : warning LNK4248: unresolved typeref token (01000015) for 'HermesVerticalService'; image may not run
+DownstreamWrapper.obj : warning LNK4248: unresolved typeref token (01000015) for 'HermesVerticalService'; image may not run
+ConfigurationServiceWrapper.obj : warning LNK4248: unresolved typeref token (01000015) for 'HermesVerticalService'; image may not run
+VerticalServiceWrapper.obj : warning LNK4248: unresolved typeref token (01000016) for 'HermesVerticalClient'; image may not run
+VerticalClientWrapper.obj : warning LNK4248: unresolved typeref token (01000016) for 'HermesVerticalClient'; image may not run
+UpstreamWrapper.obj : warning LNK4248: unresolved typeref token (01000016) for 'HermesVerticalClient'; image may not run
+DownstreamWrapper.obj : warning LNK4248: unresolved typeref token (01000016) for 'HermesVerticalClient'; image may not run
+ConfigurationServiceWrapper.obj : warning LNK4248: unresolved typeref token (01000016) for 'HermesVerticalClient'; image may not run
+  CLRWrapper.vcxproj -> C:\Users\USER\Documents\PPH Projects\Ben - Creation of C# interface for C++ library\15\lib_cpp-master\src\Debug\CLRWrapper.dll
+  CLRWrapper.vcxproj -> C:\Users\USER\Documents\PPH Projects\Ben - Creation of C# interface for C++ library\15\lib_cpp-master\src\Debug\CLRWrapper.pdb (Partial PDB)
