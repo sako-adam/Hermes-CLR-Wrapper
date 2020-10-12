@@ -1,0 +1,6 @@
+// This is the main DLL file.
+
+#include "stdafx.h"
+
+#include "CLRWrapper2.h"
+

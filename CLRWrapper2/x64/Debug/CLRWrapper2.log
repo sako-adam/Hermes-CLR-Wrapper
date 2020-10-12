@@ -1,0 +1,15 @@
+﻿  CLRWrapper2.cpp
+c:\users\user\documents\pph projects\ben - creation of c# interface for c++ library\15\lib_cpp-master\src\clrwrapper2\CLRWrapper2.h(4): fatal error C1083: Cannot open include file: 'Hermes.hpp': No such file or directory
+  ConfigurationServiceWrapper.cpp
+ConfigurationServiceWrapper.cpp(2): fatal error C1083: Cannot open include file: 'Hermes.hpp': No such file or directory
+  DownstreamWrapper.cpp
+DownstreamWrapper.cpp(2): fatal error C1083: Cannot open include file: 'Hermes.hpp': No such file or directory
+  Test.cpp
+Test.cpp(2): fatal error C1083: Cannot open include file: 'Hermes.hpp': No such file or directory
+  UpstreamWrapper.cpp
+UpstreamWrapper.cpp(2): fatal error C1083: Cannot open include file: 'Hermes.hpp': No such file or directory
+  VerticalClientWrapper.cpp
+VerticalClientWrapper.cpp(2): fatal error C1083: Cannot open include file: 'Hermes.hpp': No such file or directory
+  VerticalServiceWrapper.cpp
+VerticalServiceWrapper.cpp(2): fatal error C1083: Cannot open include file: 'Hermes.hpp': No such file or directory
+  Generating Code...

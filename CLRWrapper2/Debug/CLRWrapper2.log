@@ -1,0 +1,39 @@
+﻿  Stdafx.cpp
+  AssemblyInfo.cpp
+  CLRWrapper2.cpp
+c:\users\user\documents\pph projects\ben - creation of c# interface for c++ library\15\lib_cpp-master\src\clrwrapper2\CLRWrapper2.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\user\documents\pph projects\ben - creation of c# interface for c++ library\15\lib_cpp-master\src\clrwrapper2\CLRWrapper2.h(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  ConfigurationServiceWrapper.cpp
+c:\users\user\documents\pph projects\ben - creation of c# interface for c++ library\15\lib_cpp-master\src\clrwrapper2\CLRWrapper2.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\user\documents\pph projects\ben - creation of c# interface for c++ library\15\lib_cpp-master\src\clrwrapper2\CLRWrapper2.h(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  DownstreamWrapper.cpp
+c:\users\user\documents\pph projects\ben - creation of c# interface for c++ library\15\lib_cpp-master\src\clrwrapper2\CLRWrapper2.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\user\documents\pph projects\ben - creation of c# interface for c++ library\15\lib_cpp-master\src\clrwrapper2\CLRWrapper2.h(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Test.cpp
+Test.cpp(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+Test.cpp(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  UpstreamWrapper.cpp
+c:\users\user\documents\pph projects\ben - creation of c# interface for c++ library\15\lib_cpp-master\src\clrwrapper2\CLRWrapper2.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\user\documents\pph projects\ben - creation of c# interface for c++ library\15\lib_cpp-master\src\clrwrapper2\CLRWrapper2.h(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  VerticalClientWrapper.cpp
+c:\users\user\documents\pph projects\ben - creation of c# interface for c++ library\15\lib_cpp-master\src\clrwrapper2\CLRWrapper2.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\user\documents\pph projects\ben - creation of c# interface for c++ library\15\lib_cpp-master\src\clrwrapper2\CLRWrapper2.h(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  VerticalServiceWrapper.cpp
+c:\users\user\documents\pph projects\ben - creation of c# interface for c++ library\15\lib_cpp-master\src\clrwrapper2\CLRWrapper2.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\user\documents\pph projects\ben - creation of c# interface for c++ library\15\lib_cpp-master\src\clrwrapper2\CLRWrapper2.h(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+VerticalServiceWrapper.obj : warning LNK4248: unresolved typeref token (01000036) for 'HermesConfigurationService'; image may not run
+VerticalClientWrapper.obj : warning LNK4248: unresolved typeref token (01000036) for 'HermesConfigurationService'; image may not run
+UpstreamWrapper.obj : warning LNK4248: unresolved typeref token (01000037) for 'HermesConfigurationService'; image may not run
+DownstreamWrapper.obj : warning LNK4248: unresolved typeref token (01000036) for 'HermesConfigurationService'; image may not run
+ConfigurationServiceWrapper.obj : warning LNK4248: unresolved typeref token (01000036) for 'HermesConfigurationService'; image may not run
+CLRWrapper2.obj : warning LNK4248: unresolved typeref token (01000036) for 'HermesConfigurationService'; image may not run
+Test.obj : warning LNK4248: unresolved typeref token (01000034) for 'HermesDownstream'; image may not run
+DownstreamWrapper.obj : warning LNK4248: unresolved typeref token (01000038) for 'HermesDownstream'; image may not run
+UpstreamWrapper.obj : warning LNK4248: unresolved typeref token (0100001A) for 'HermesUpstream'; image may not run
+VerticalClientWrapper.obj : warning LNK4248: unresolved typeref token (0100001A) for 'HermesVerticalClient'; image may not run
+VerticalServiceWrapper.obj : warning LNK4248: unresolved typeref token (01000035) for 'HermesVerticalService'; image may not run
+  CLRWrapper2.vcxproj -> C:\Users\USER\Documents\PPH Projects\Ben - Creation of C# interface for C++ library\15\lib_cpp-master\src\Debug\CLRWrapper2.dll
+  CLRWrapper2.vcxproj -> C:\Users\USER\Documents\PPH Projects\Ben - Creation of C# interface for C++ library\15\lib_cpp-master\src\Debug\CLRWrapper2.pdb (Partial PDB)
